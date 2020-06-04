@@ -5,7 +5,7 @@
         document.write("<br><br>");
     }
 
-    var titulo = "Bem-vindo ao meu programa!";
+    var titulo = "Bem-vindo ao meu programa!!";
 
     document.write("<h1>" + titulo + "</h1>");
 
